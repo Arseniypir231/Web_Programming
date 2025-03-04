@@ -2,7 +2,7 @@
 
 Student
 
-![Image](https://github.com/Arseniypir231/Web_Programming/blob/gh_pages/LR_1/assets/CV.png)
+![CV](https://github.com/user-attachments/assets/3f7f9c46-819d-4498-a06d-da6af20a3a7d)
 
 *   Responsible
 *   Sociable
