@@ -21,7 +21,7 @@ I am a student of the Belarusian-Russian University, studying the specialty of a
 
 ## Code Example
 
-```
+```C#
 
   static void WriteArray(int [,] array) <br>
    { 
